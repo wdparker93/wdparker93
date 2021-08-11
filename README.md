@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wdparker93
+- 👀 I’m interested in data science and software development
+- 🌱 I’m currently learning statistics, python, javascript, HTML, CSS, and solidity
+- 📫 You can reach me via email at wdparker93@gmail.com
