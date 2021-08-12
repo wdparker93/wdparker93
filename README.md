@@ -1,6 +1,6 @@
 Hello!
 
-In the interest of preserving academic integrity I have made many of my reposities private. If you would like to view one of my reposities don't hesitate to email me.
+In the interest of preserving academic integrity I have made many of my repositories private. If you would like to view one of my repositories don't hesitate to email me.
 
 - 👋 Hi, I’m William Parker
 - 👀 I’m interested in data science and software development
