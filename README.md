@@ -4,4 +4,4 @@
 
 In the interest of preserving academic integrity and my own privacy, I have made several of my repositories private. 
 
-If you have arrived here expecting to see a repository full of code, or if you would like to view one of my repositories, please reach out to me via email or LinkedIn.
+If you have arrived here expecting to see a repository full of code, or if you need help viewing one of my repositories, please reach out to me via email or LinkedIn.
